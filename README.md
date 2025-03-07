@@ -9,6 +9,10 @@ A curated collection of high-quality blogs, lectures, and resources on AI, ML, a
     - ### Title:
       - Link:
       - Additional Note:
+- ## Decision Trees:
+    - ### Title: Ytube lecture
+      - Link: [https://youtu.be/LmpkKwsyQj4?si=tezgklq1RORt6jhM ](https://youtu.be/FurqoUSdAPM?si=X9e3Liu2rGOCBUxL)
+      - Additional Note:  Easy to grasp
   
 
 # Deep-Learning Hacks:
